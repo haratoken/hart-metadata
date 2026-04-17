@@ -1,7 +1,7 @@
 {
-  "name": "HaraToken",
+  "name": "HARA Token",
   "symbol": "HART",
-  "description": "Hara Token in Solana",
-  "image": "https://raw.githubusercontent.com/haratoken/hart-metadata/refs/heads/main/hara.jpg",
+  "description": "HART is the core asset of the protocol, designed to make ecosystem interactions more trustworthy and accountable.",
+  "image": "https://raw.githubusercontent.com/haratoken/hart-metadata/refs/heads/main/logo.png",
   "external_url": "haratoken.io"
 }
